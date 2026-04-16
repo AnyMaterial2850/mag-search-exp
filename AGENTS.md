@@ -60,6 +60,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - Search the web, check calendars
 - Work within this workspace
 - Follow context before asking clarifying questions when the answer can be recovered from recent conversation, workspace files, tools, or system state
+- When helping with inbox, calendar, or day-to-day operations, proactively inspect the relevant context first and push the task forward without waiting for extra prompting when no external-risk action is required
 
 **Ask first:**
 
