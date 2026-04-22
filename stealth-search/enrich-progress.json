@@ -1,0 +1,353 @@
+[
+  {
+    "row": 2,
+    "name": "Burgess",
+    "score": 52,
+    "tier": "WARM",
+    "triggers": "PE ownership; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "expansion"
+    ]
+  },
+  {
+    "row": 3,
+    "name": "Fraser",
+    "score": 40,
+    "tier": "LOW",
+    "triggers": "PE ownership; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership"
+    ]
+  },
+  {
+    "row": 4,
+    "name": "Edmiston",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 5,
+    "name": "Camper & Nicholsons",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 6,
+    "name": "IYC",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 7,
+    "name": "Northrop & Johnson",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 8,
+    "name": "Ocean Independence",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 9,
+    "name": "Y.CO",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 10,
+    "name": "Merle Wood & Associates",
+    "score": 55,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change"
+    ]
+  },
+  {
+    "row": 11,
+    "name": "Bluewater Yachting",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 12,
+    "name": "Hill Robinson",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 13,
+    "name": "Imperial Yachts",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 14,
+    "name": "Cecil Wright",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 15,
+    "name": "Denison Yachting",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 16,
+    "name": "Engel & Volkers Yachting",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 17,
+    "name": "SuperYachtsMonaco",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 18,
+    "name": "TWW Yachts",
+    "score": 48,
+    "tier": "LOW",
+    "triggers": "PE ownership; Event trigger; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "events"
+    ]
+  },
+  {
+    "row": 19,
+    "name": "Worth Avenue Yachts",
+    "score": 52,
+    "tier": "WARM",
+    "triggers": "PE ownership; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "expansion"
+    ]
+  },
+  {
+    "row": 20,
+    "name": "Savills Prime",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 21,
+    "name": "Knight Frank Private Office",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 22,
+    "name": "Beauchamp Estates",
+    "score": 30,
+    "tier": "LOW",
+    "triggers": "Org change; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Unknown",
+    "signals": [
+      "org_change"
+    ]
+  },
+  {
+    "row": 23,
+    "name": "Strutt & Parker",
+    "score": 40,
+    "tier": "LOW",
+    "triggers": "PE ownership; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes",
+    "signals": [
+      "pe_ownership"
+    ]
+  },
+  {
+    "row": 24,
+    "name": "Rokstone",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 25,
+    "name": "Air Charter Service",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 26,
+    "name": "VistaJet / Vista Global",
+    "score": 75,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Event trigger; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion",
+      "events"
+    ]
+  },
+  {
+    "row": 27,
+    "name": "Flexjet",
+    "score": 40,
+    "tier": "LOW",
+    "triggers": "PE ownership; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes",
+    "signals": [
+      "pe_ownership"
+    ]
+  },
+  {
+    "row": 28,
+    "name": "NetJets",
+    "score": 42,
+    "tier": "LOW",
+    "triggers": "Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Unknown",
+    "signals": [
+      "org_change",
+      "expansion"
+    ]
+  },
+  {
+    "row": 29,
+    "name": "Wheels Up",
+    "score": 42,
+    "tier": "LOW",
+    "triggers": "Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes",
+    "signals": [
+      "org_change",
+      "expansion"
+    ]
+  }
+]

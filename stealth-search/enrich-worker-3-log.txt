@@ -1,0 +1,79 @@
+[worker-3] Reading Sheet data...
+[worker-3] Rows 103-138 | 36 companies | 0 already done
+[worker-3] [1/36] Aura World Wins Best Luxury Travel Specialist in Singapore | Bespoke ...
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [2/36] Singapore Luxury Travel | Luxe and Intrepid Asia | Remote Lands
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [3/36] Bespoke travel agencies: Get customised luxury ... - Robb Report Singapore
+[worker-3]   70 [WARM] — PE ownership; Org change; Expansion; Event trigger; Vertical fit; Geo fit
+[worker-3] [4/36] Curated Expedition Cruises & Holidays | Exclusive Expedition
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [5/36] Luxury Holidays | Luxury Travel & Tour Agents 2026/2027 | Scott Dunn UK
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [6/36] Luxury Guided Tours & Holiday Packages | Luxury Gold GB
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [7/36] Travel | Xped Global | England
+[worker-3]   70 [WARM] — PE ownership; Org change; Expansion; Event trigger; Vertical fit; Geo fit
+[worker-3] [8/36] Luxury Travel Company | Holiday Luxury | England
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [9/36] Welcome - Swiss Private Jet
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [10/36] Livejet, your aviation broker in Swiss | LiveJet
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [11/36] DAL Aviation Switzerland : Your Private Jet Charter in the Heart of Europe
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [12/36] OdinJets - Fly with Swiss precision
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [13/36] Swiss Skies | Private Aviation Excellence
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [14/36] SwissCraft Aviation - Luxury Private Jet and Helicopter Charters in ...
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [15/36] SWIXJET AVIATION - Fly Private, Swiss Made
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [16/36] The #1 Swiss Boutique Private Jet Charter | Zadra Aviation Charter
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [17/36] Private jet charter company in Geneva, Switzerland - LunaJets
+[worker-3]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-3] [18/36] Private Office - Naef Prestige | Knight Frank
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [19/36] Art Advisory - Waldstein
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [20/36] areaconsulting - Art advisory consulting
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [21/36] Broad Arrow Auctions | Driven by Hagerty | Classic Car Auctions
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [22/36] Classic Car Auction Group
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [23/36] Private Sales - RM Sotheby's
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [24/36] Classic Car Auctions | Car and Classic
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [25/36] Classic Cars Auctions / Classifieds | Hagerty Marketplace
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [26/36] Auction Central - ClassicCars.com
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [27/36] Buy Classic Cars: The Gold List of Dealers and Brokers
+[worker-3]   52 [WARM] — PE ownership; Org change; Expansion
+[worker-3] [28/36] Classic Car Auctions | Gooding Christie's
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [29/36] Ultra Luxury Adventure Travel | Private Expedition Worldwide
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [30/36] Luxury Travel Concierge | Bespoke & Experiential Travel | Wanderlux
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [31/36] Explorations Company - Private Luxury Travel 2025 / 2026
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [32/36] Luxury Wildlife Holidays & Expedition Cruises | Wildfoot Travel
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [33/36] Luxury Travel | Solace Expeditions - Bespoke Journeys Tailored to You
+[worker-3]   52 [WARM] — PE ownership; Org change; Expansion
+[worker-3] [34/36] Exklusiv Aviation Private Jet for... You
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-3] [35/36] luxury做形容词时跟luxurious有什么区别吗？
+[worker-3]   52 [WARM] — PE ownership; Org change; Expansion
+[worker-3] [36/36] Executive Private Office - Private Office Space for Rent
+[worker-3]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+
+[worker-3] ═══════════════════════════════
+[worker-3] DONE — Enriched: 36 | Errors: 0
+[worker-3] HOT: 0 | WARM: 36 | LOW: 0
+[worker-3] ═══════════════════════════════

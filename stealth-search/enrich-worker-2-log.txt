@@ -1,0 +1,79 @@
+[worker-2] Reading Sheet data...
+[worker-2] Rows 67-102 | 36 companies | 0 already done
+[worker-2] [1/36] Hollmann International
+[worker-2]   57 [WARM] — PE ownership; Org change; Expansion; Size fit
+[worker-2] [2/36] Helvetic Motorsport
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Size fit; Geo fit
+[worker-2] [3/36] Classic Car Auto Brokerage | Sell Your Classic Today
+[worker-2]   57 [WARM] — PE ownership; Org change; Expansion; Vertical fit
+[worker-2] [4/36] Private Office Dubai | Luxury Real Estate Brokers UAE
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [5/36] Private Office Dubai | Luxury Real Estate Advisory | Clover Properties
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [6/36] Luxury offices for sale in Dubai - LuxuryEstate.com
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [7/36] Luxury Real Estate in Dubai | LuxuryX Agents
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [8/36] Luxury Excellence Real Estate Dubai | Premium Properties Dubai
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [9/36] Home | Primaluxury
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [10/36] Luxury Real Estate in UAE | Buy Property with Dubai Sotheby's ...
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [11/36] Five Luxury Properties | Dubai's Premier Luxury Realtors
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [12/36] Best Luxury Real Estate Agency in Dubai
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [13/36] Luxury Property Experts - Buy and Rent Exclusive Properties in the UAE
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [14/36] Prestige at BARNES Switzerland
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [15/36] Switzerland Luxury Real Estate - Homes for Sale
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [16/36] 7 Top Luxury Real Estate Brokers in Switzerland - Ian Simpson
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [17/36] Property experts in Switzerland | Knight Frank
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [18/36] Luxury real estate - Zurich | Sotheby's International Realty ...
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [19/36] Find a property | Switzerland Sotheby's International Realty - agence ...
+[worker-2]   77 [WARM] — PE ownership; Org change; Expansion; Revenue/Growth; Vertical fit; Geo fit
+[worker-2] [20/36] Luxury properties across Switzerland | Luxury Places
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [21/36] Fischer Art Advisory⏐Zurich, Switzerland
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [22/36] Home | Alberto Art Consulting
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [23/36] Art Consulting | Artinic | Switzerland
+[worker-2]   10 [LOW] — Vertical fit; Geo fit
+[worker-2] [24/36] Home | RomeroRamosFineArt
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [25/36] Iain Brunt - Art Advisor
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [26/36] ABOUT - Sabah Art Advisory
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [27/36] Art Advisory Services | Edward Mitterrand | Geneva
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [28/36] ORA Art Advisory
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [29/36] Iconic Auctioneers | Classic Car & Motorcycle Auction House
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [30/36] Luxury Travel Designer Singapore
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [31/36] Luxury Travel Agency in Singapore | Beyond Footprints Travel SG
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [32/36] The Crème de la Crème: Top 5 Luxury Travel Agencies in Singapore
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [33/36] Singapore Luxury & Bespoke Vacations | Tully Luxury Travel
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [34/36] Luxury Travel Agent Singapore: Inside the World of High-Touch Service ...
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [35/36] Luxury Travel Singapore - Travel Planner | Quotient Travel
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-2] [36/36] Tours and Travel Agency Singapore | Luxury Tours Agency
+[worker-2]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+
+[worker-2] ═══════════════════════════════
+[worker-2] DONE — Enriched: 36 | Errors: 0
+[worker-2] HOT: 0 | WARM: 35 | LOW: 1
+[worker-2] ═══════════════════════════════

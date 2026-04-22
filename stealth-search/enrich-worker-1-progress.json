@@ -1,0 +1,584 @@
+[
+  {
+    "row": 30,
+    "name": "XO",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "UAE",
+    "website": "flyxo.com"
+  },
+  {
+    "row": 31,
+    "name": "Sothebys Private Sales",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "US",
+    "website": "sothebys.com"
+  },
+  {
+    "row": 32,
+    "name": "Christies",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "UK",
+    "website": "christies.com"
+  },
+  {
+    "row": 33,
+    "name": "Gurr Johns",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "UK",
+    "website": "gurrjohns.com"
+  },
+  {
+    "row": 34,
+    "name": "Phillips",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "UK",
+    "website": "phillips.com"
+  },
+  {
+    "row": 35,
+    "name": "Bonhams",
+    "score": 60,
+    "tier": "WARM",
+    "triggers": "PE ownership; Expansion; Event trigger; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes",
+    "signals": [
+      "pe_ownership",
+      "expansion",
+      "events"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "UK",
+    "website": "bonhams.com"
+  },
+  {
+    "row": 36,
+    "name": "Dreweatts",
+    "score": 55,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "UK",
+    "website": "dreweatts.com"
+  },
+  {
+    "row": 37,
+    "name": "Artvest Partners",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "US",
+    "website": "artvestpartners.com"
+  },
+  {
+    "row": 38,
+    "name": "Romans International",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "UK",
+    "website": "romansinternational.com"
+  },
+  {
+    "row": 39,
+    "name": "Tom Hartley",
+    "score": 10,
+    "tier": "LOW",
+    "triggers": "Size fit; Geo fit",
+    "peStatus": "Unknown",
+    "signals": [],
+    "vertical": "Luxury Autos",
+    "hq_country": "UK",
+    "website": "tomhartley.com"
+  },
+  {
+    "row": 40,
+    "name": "Tom Hartley Jnr",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "UK",
+    "website": "tomhartleyjnr.com"
+  },
+  {
+    "row": 41,
+    "name": "Black Tomato",
+    "score": 40,
+    "tier": "LOW",
+    "triggers": "PE ownership; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "blacktomato.com"
+  },
+  {
+    "row": 42,
+    "name": "Pelorus",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "pelorustravel.com"
+  },
+  {
+    "row": 43,
+    "name": "Moravia Yachting",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Superyacht",
+    "hq_country": "Monaco",
+    "website": "moraviayachting.mc"
+  },
+  {
+    "row": 44,
+    "name": "YACHTZOO",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Superyacht",
+    "hq_country": "Monaco",
+    "website": "yacht-zoo.com"
+  },
+  {
+    "row": 45,
+    "name": "YPI Yachts",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Superyacht",
+    "hq_country": "Monaco",
+    "website": "ypiyachts.com"
+  },
+  {
+    "row": 46,
+    "name": "Superyacht Partners",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Superyacht",
+    "hq_country": "Monaco",
+    "website": "superyachtpartners.com"
+  },
+  {
+    "row": 47,
+    "name": "Moran Yacht & Ship",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Superyacht",
+    "hq_country": "US",
+    "website": "moranyachts.com"
+  },
+  {
+    "row": 48,
+    "name": "Luxury Yacht Group",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Superyacht",
+    "hq_country": "US",
+    "website": "luxyachts.com"
+  },
+  {
+    "row": 49,
+    "name": "TJB Super Yachts",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Superyacht",
+    "hq_country": "UK",
+    "website": "tjbsuperyachts.com"
+  },
+  {
+    "row": 50,
+    "name": "Bush & Noble",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Superyacht",
+    "hq_country": "UAE",
+    "website": "bushandnoble.com"
+  },
+  {
+    "row": 51,
+    "name": "Chapman Freeborn",
+    "score": 55,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Size fit; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "UK",
+    "website": "chapmanfreeborn.aero"
+  },
+  {
+    "row": 52,
+    "name": "Victor",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "UK",
+    "website": "flyvictor.com"
+  },
+  {
+    "row": 53,
+    "name": "Volanteus",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "UK",
+    "website": "volanteus.com"
+  },
+  {
+    "row": 54,
+    "name": "SHY Aviation",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "UK",
+    "website": "shyaviation.com"
+  },
+  {
+    "row": 55,
+    "name": "LunaJets",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "No",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "lunajets.com"
+  },
+  {
+    "row": 56,
+    "name": "PrivateFly / FXAIR",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "UK",
+    "website": "privatefly.com"
+  },
+  {
+    "row": 57,
+    "name": "Empire Aviation Group",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "UAE",
+    "website": "empireaviation.com"
+  },
+  {
+    "row": 58,
+    "name": "BARNES",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Switzerland/France",
+    "website": "barnes-international.com"
+  },
+  {
+    "row": 59,
+    "name": "M.C.C. Monaco",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "Monaco",
+    "website": "mccmonaco.com"
+  },
+  {
+    "row": 60,
+    "name": "Absolut Cars Consulting",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "Monaco",
+    "website": "absolutcarsconsulting.com"
+  },
+  {
+    "row": 61,
+    "name": "Alain Class Motors",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "UAE",
+    "website": "alainclass.com"
+  },
+  {
+    "row": 62,
+    "name": "Autowelt Schweiz",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "Switzerland",
+    "website": "autoweltschweiz.ch"
+  },
+  {
+    "row": 63,
+    "name": "Jacada Travel",
+    "score": 25,
+    "tier": "LOW",
+    "triggers": "Infra/CRM; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Unknown",
+    "signals": [
+      "infra_invest"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "jacadatravel.com"
+  },
+  {
+    "row": 64,
+    "name": "Scott Dunn",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "scottdunn.com"
+  },
+  {
+    "row": 65,
+    "name": "Abercrombie & Kent",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Infra/CRM; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "infra_invest",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "abercrombiekent.com"
+  },
+  {
+    "row": 66,
+    "name": "Unforgettable Travel Company",
+    "score": 67,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "unforgettabletravel.com"
+  }
+]

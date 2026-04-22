@@ -1,0 +1,575 @@
+[
+  {
+    "row": 67,
+    "name": "Hollmann International",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "Germany",
+    "website": "hollmann.international"
+  },
+  {
+    "row": 68,
+    "name": "Helvetic Motorsport",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Size fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "Switzerland",
+    "website": "helvetic-motorsport.ch"
+  },
+  {
+    "row": 69,
+    "name": "Classic Car Auto Brokerage | Sell Your Classic Today",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "carusoclassics.com"
+  },
+  {
+    "row": 70,
+    "name": "Private Office Dubai | Luxury Real Estate Brokers UAE",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "UAE",
+    "website": "allsoppandallsopp.com"
+  },
+  {
+    "row": 71,
+    "name": "Private Office Dubai | Luxury Real Estate Advisory | Clover Properties",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "UAE",
+    "website": "cloverproperties.ae"
+  },
+  {
+    "row": 72,
+    "name": "Luxury offices for sale in Dubai - LuxuryEstate.com",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "UAE",
+    "website": "luxuryestate.com"
+  },
+  {
+    "row": 73,
+    "name": "Luxury Real Estate in Dubai | LuxuryX Agents",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "UAE",
+    "website": "luxuryx.co"
+  },
+  {
+    "row": 74,
+    "name": "Luxury Excellence Real Estate Dubai | Premium Properties Dubai",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "UAE",
+    "website": "luxuryexcellence.ae"
+  },
+  {
+    "row": 75,
+    "name": "Home | Primaluxury",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "UAE",
+    "website": "primaluxury.com"
+  },
+  {
+    "row": 76,
+    "name": "Luxury Real Estate in UAE | Buy Property with Dubai Sotheby's ...",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "UAE",
+    "website": "sothebysrealty.ae"
+  },
+  {
+    "row": 77,
+    "name": "Five Luxury Properties | Dubai's Premier Luxury Realtors",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "UAE",
+    "website": "fiveluxuryproperties.com"
+  },
+  {
+    "row": 78,
+    "name": "Best Luxury Real Estate Agency in Dubai",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "UAE",
+    "website": "morgansrealty.com"
+  },
+  {
+    "row": 79,
+    "name": "Luxury Property Experts - Buy and Rent Exclusive Properties in the UAE",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "UAE",
+    "website": "luxurypropertyexperts.com"
+  },
+  {
+    "row": 80,
+    "name": "Prestige at BARNES Switzerland",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Switzerland",
+    "website": "en.barnes-suisse.ch"
+  },
+  {
+    "row": 81,
+    "name": "Switzerland Luxury Real Estate - Homes for Sale",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Switzerland",
+    "website": "sothebysrealty.com"
+  },
+  {
+    "row": 82,
+    "name": "7 Top Luxury Real Estate Brokers in Switzerland - Ian Simpson",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Switzerland",
+    "website": "iansimpson.ch"
+  },
+  {
+    "row": 83,
+    "name": "Property experts in Switzerland | Knight Frank",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Switzerland",
+    "website": "knightfrank.com"
+  },
+  {
+    "row": 84,
+    "name": "Luxury real estate - Zurich | Sotheby's International Realty ...",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Switzerland",
+    "website": "ch-sothebysrealty.ch"
+  },
+  {
+    "row": 85,
+    "name": "Find a property | Switzerland Sotheby's International Realty - agence ...",
+    "score": 77,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Revenue/Growth; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion",
+      "revenue_growth"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Switzerland",
+    "website": "switzerland-sothebysrealty.ch"
+  },
+  {
+    "row": 86,
+    "name": "Luxury properties across Switzerland | Luxury Places",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Switzerland",
+    "website": "luxury-places.ch"
+  },
+  {
+    "row": 87,
+    "name": "Fischer Art Advisory⏐Zurich, Switzerland",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Switzerland",
+    "website": "fischerartadvisory.com"
+  },
+  {
+    "row": 88,
+    "name": "Home | Alberto Art Consulting",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Switzerland",
+    "website": "alberto-art-advisory.com"
+  },
+  {
+    "row": 89,
+    "name": "Art Consulting | Artinic | Switzerland",
+    "score": 10,
+    "tier": "LOW",
+    "triggers": "Vertical fit; Geo fit",
+    "peStatus": "Unknown",
+    "signals": [],
+    "vertical": "Fine Art",
+    "hq_country": "Switzerland",
+    "website": "artinic.com"
+  },
+  {
+    "row": 90,
+    "name": "Home | RomeroRamosFineArt",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Switzerland",
+    "website": "romeroramosfineart.ch"
+  },
+  {
+    "row": 91,
+    "name": "Iain Brunt - Art Advisor",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Switzerland",
+    "website": "artadvisor.ch"
+  },
+  {
+    "row": 92,
+    "name": "ABOUT - Sabah Art Advisory",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Switzerland",
+    "website": "sabah-artadvisory.com"
+  },
+  {
+    "row": 93,
+    "name": "Art Advisory Services | Edward Mitterrand | Geneva",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Switzerland",
+    "website": "advisory.art"
+  },
+  {
+    "row": 94,
+    "name": "ORA Art Advisory",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Switzerland",
+    "website": "oraaa.net"
+  },
+  {
+    "row": 95,
+    "name": "Iconic Auctioneers | Classic Car & Motorcycle Auction House",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "UK",
+    "website": "iconicauctioneers.com"
+  },
+  {
+    "row": 96,
+    "name": "Luxury Travel Designer Singapore",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "epictraveldesigner.com.sg"
+  },
+  {
+    "row": 97,
+    "name": "Luxury Travel Agency in Singapore | Beyond Footprints Travel SG",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "beyond-footprints.com"
+  },
+  {
+    "row": 98,
+    "name": "The Crème de la Crème: Top 5 Luxury Travel Agencies in Singapore",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "businessguide.com.my"
+  },
+  {
+    "row": 99,
+    "name": "Singapore Luxury & Bespoke Vacations | Tully Luxury Travel",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "tullyluxurytravel.com"
+  },
+  {
+    "row": 100,
+    "name": "Luxury Travel Agent Singapore: Inside the World of High-Touch Service ...",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "auraworld.com.sg"
+  },
+  {
+    "row": 101,
+    "name": "Luxury Travel Singapore - Travel Planner | Quotient Travel",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "quotienttravel.com"
+  },
+  {
+    "row": 102,
+    "name": "Tours and Travel Agency Singapore | Luxury Tours Agency",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "intriqjourney.com"
+  }
+]

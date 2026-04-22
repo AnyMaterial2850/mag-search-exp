@@ -1,0 +1,81 @@
+[worker-1] Reading Sheet data...
+[worker-1] Rows 30-66 | 37 companies | 0 already done
+[worker-1] [1/37] XO
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [2/37] Sothebys Private Sales
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [3/37] Christies
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [4/37] Gurr Johns
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [5/37] Phillips
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [6/37] Bonhams
+[worker-1]   60 [WARM] — PE ownership; Expansion; Event trigger; Size fit; Vertical fit; Geo fit
+[worker-1] [7/37] Dreweatts
+[worker-1]   55 [WARM] — PE ownership; Org change; Size fit; Vertical fit; Geo fit
+[worker-1] [8/37] Artvest Partners
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [9/37] Romans International
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Size fit; Geo fit
+[worker-1] [10/37] Tom Hartley
+[worker-1]   10 [LOW] — Size fit; Geo fit
+[worker-1] [11/37] Tom Hartley Jnr
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Size fit; Geo fit
+[worker-1] [12/37] Black Tomato
+[worker-1]   40 [LOW] — PE ownership; Size fit; Vertical fit; Geo fit
+[worker-1] [13/37] Pelorus
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [14/37] Moravia Yachting
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-1] [15/37] YACHTZOO
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [16/37] YPI Yachts
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [17/37] Superyacht Partners
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-1] [18/37] Moran Yacht & Ship
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [19/37] Luxury Yacht Group
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [20/37] TJB Super Yachts
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [21/37] Bush & Noble
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-1] [22/37] Chapman Freeborn
+[worker-1]   55 [WARM] — PE ownership; Org change; Size fit; Vertical fit; Geo fit
+[worker-1] [23/37] Victor
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [24/37] Volanteus
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [25/37] SHY Aviation
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [26/37] LunaJets
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [27/37] PrivateFly / FXAIR
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Vertical fit; Geo fit
+[worker-1] [28/37] Empire Aviation Group
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [29/37] BARNES
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [30/37] M.C.C. Monaco
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Size fit; Geo fit
+[worker-1] [31/37] Absolut Cars Consulting
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Size fit; Geo fit
+[worker-1] [32/37] Alain Class Motors
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Size fit; Geo fit
+[worker-1] [33/37] Autowelt Schweiz
+[worker-1]   62 [WARM] — PE ownership; Org change; Expansion; Size fit; Geo fit
+[worker-1] [34/37] Jacada Travel
+[worker-1]   25 [LOW] — Infra/CRM; Size fit; Vertical fit; Geo fit
+[worker-1] [35/37] Scott Dunn
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [36/37] Abercrombie & Kent
+[worker-1]   62 [WARM] — PE ownership; Infra/CRM; Expansion; Size fit; Vertical fit; Geo fit
+[worker-1] [37/37] Unforgettable Travel Company
+[worker-1]   67 [WARM] — PE ownership; Org change; Expansion; Size fit; Vertical fit; Geo fit
+
+[worker-1] ═══════════════════════════════
+[worker-1] DONE — Enriched: 37 | Errors: 0
+[worker-1] HOT: 0 | WARM: 34 | LOW: 3
+[worker-1] ═══════════════════════════════

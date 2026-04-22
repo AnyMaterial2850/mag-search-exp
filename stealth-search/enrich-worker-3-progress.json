@@ -1,0 +1,580 @@
+[
+  {
+    "row": 103,
+    "name": "Aura World Wins Best Luxury Travel Specialist in Singapore | Bespoke ...",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "luxurylifestyleawards.com"
+  },
+  {
+    "row": 104,
+    "name": "Singapore Luxury Travel | Luxe and Intrepid Asia | Remote Lands",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "remotelands.com"
+  },
+  {
+    "row": 105,
+    "name": "Bespoke travel agencies: Get customised luxury ... - Robb Report Singapore",
+    "score": 70,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Event trigger; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion",
+      "events"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Singapore",
+    "website": "robbreport.com.sg"
+  },
+  {
+    "row": 106,
+    "name": "Curated Expedition Cruises & Holidays | Exclusive Expedition",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "exclusiveexpeditions.co.uk"
+  },
+  {
+    "row": 107,
+    "name": "Luxury Holidays | Luxury Travel & Tour Agents 2026/2027 | Scott Dunn UK",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "scottdunn.com"
+  },
+  {
+    "row": 108,
+    "name": "Luxury Guided Tours & Holiday Packages | Luxury Gold GB",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "luxurygold.com"
+  },
+  {
+    "row": 109,
+    "name": "Travel | Xped Global | England",
+    "score": 70,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Event trigger; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion",
+      "events"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "xpedglobal.com"
+  },
+  {
+    "row": 110,
+    "name": "Luxury Travel Company | Holiday Luxury | England",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "UK",
+    "website": "holidayluxury.com"
+  },
+  {
+    "row": 111,
+    "name": "Welcome - Swiss Private Jet",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "swissprivatejet.ch"
+  },
+  {
+    "row": 112,
+    "name": "Livejet, your aviation broker in Swiss | LiveJet",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "livejet.ch"
+  },
+  {
+    "row": 113,
+    "name": "DAL Aviation Switzerland : Your Private Jet Charter in the Heart of Europe",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "dalaviation.ch"
+  },
+  {
+    "row": 114,
+    "name": "OdinJets - Fly with Swiss precision",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "odinjets.com"
+  },
+  {
+    "row": 115,
+    "name": "Swiss Skies | Private Aviation Excellence",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "swiss-skies.com"
+  },
+  {
+    "row": 116,
+    "name": "SwissCraft Aviation - Luxury Private Jet and Helicopter Charters in ...",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "swisscraftaviation.com"
+  },
+  {
+    "row": 117,
+    "name": "SWIXJET AVIATION - Fly Private, Swiss Made",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "swixjet.com"
+  },
+  {
+    "row": 118,
+    "name": "The #1 Swiss Boutique Private Jet Charter | Zadra Aviation Charter",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "zadra-aviationcharter.ch"
+  },
+  {
+    "row": 119,
+    "name": "Private jet charter company in Geneva, Switzerland - LunaJets",
+    "score": 62,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit; Geo fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Switzerland",
+    "website": "lunajets.com"
+  },
+  {
+    "row": 120,
+    "name": "Private Office - Naef Prestige | Knight Frank",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Unknown",
+    "website": "naef-prestige.ch"
+  },
+  {
+    "row": 121,
+    "name": "Art Advisory - Waldstein",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "waldstein-art.ch"
+  },
+  {
+    "row": 122,
+    "name": "areaconsulting - Art advisory consulting",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "areaconsulting.ch"
+  },
+  {
+    "row": 123,
+    "name": "Broad Arrow Auctions | Driven by Hagerty | Classic Car Auctions",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "broadarrowauctions.com"
+  },
+  {
+    "row": 124,
+    "name": "Classic Car Auction Group",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "classiccarauction.us"
+  },
+  {
+    "row": 125,
+    "name": "Private Sales - RM Sotheby's",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "rmsothebys.com"
+  },
+  {
+    "row": 126,
+    "name": "Classic Car Auctions | Car and Classic",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "carandclassic.com"
+  },
+  {
+    "row": 127,
+    "name": "Classic Cars Auctions / Classifieds | Hagerty Marketplace",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "hagerty.com"
+  },
+  {
+    "row": 128,
+    "name": "Auction Central - ClassicCars.com",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "classiccars.com"
+  },
+  {
+    "row": 129,
+    "name": "Buy Classic Cars: The Gold List of Dealers and Brokers",
+    "score": 52,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "Unknown",
+    "website": "buyclassiccars.com"
+  },
+  {
+    "row": 130,
+    "name": "Classic Car Auctions | Gooding Christie's",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Fine Art",
+    "hq_country": "Unknown",
+    "website": "goodingco.com"
+  },
+  {
+    "row": 131,
+    "name": "Ultra Luxury Adventure Travel | Private Expedition Worldwide",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Unknown",
+    "website": "kensingtonexpeditions.com"
+  },
+  {
+    "row": 132,
+    "name": "Luxury Travel Concierge | Bespoke & Experiential Travel | Wanderlux",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Unknown",
+    "website": "wanderlux.co.uk"
+  },
+  {
+    "row": 133,
+    "name": "Explorations Company - Private Luxury Travel 2025 / 2026",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Unknown",
+    "website": "explorationscompany.com"
+  },
+  {
+    "row": 134,
+    "name": "Luxury Wildlife Holidays & Expedition Cruises | Wildfoot Travel",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "High-end Travel",
+    "hq_country": "Unknown",
+    "website": "wildfoottravel.com"
+  },
+  {
+    "row": 135,
+    "name": "Luxury Travel | Solace Expeditions - Bespoke Journeys Tailored to You",
+    "score": 52,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Autos",
+    "hq_country": "Unknown",
+    "website": "solaceexpeditions.com"
+  },
+  {
+    "row": 136,
+    "name": "Exklusiv Aviation Private Jet for... You",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Private Aviation",
+    "hq_country": "Unknown",
+    "website": "exklusivaviation.ch"
+  },
+  {
+    "row": 137,
+    "name": "luxury做形容词时跟luxurious有什么区别吗？",
+    "score": 52,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Unknown",
+    "hq_country": "Unknown",
+    "website": "bing.com"
+  },
+  {
+    "row": 138,
+    "name": "Executive Private Office - Private Office Space for Rent",
+    "score": 57,
+    "tier": "WARM",
+    "triggers": "PE ownership; Org change; Expansion; Vertical fit",
+    "peStatus": "Yes (enriched)",
+    "signals": [
+      "pe_ownership",
+      "org_change",
+      "expansion"
+    ],
+    "vertical": "Luxury Real Estate",
+    "hq_country": "Unknown",
+    "website": "duckduckgo.com"
+  }
+]

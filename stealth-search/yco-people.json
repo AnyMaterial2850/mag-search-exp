@@ -1,0 +1,821 @@
+[
+  {
+    "company": "Y.CO",
+    "person_name": "Jenny Chiles",
+    "job_title": "Commercial Director | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Primary",
+    "tier_rationale": "Exact EP sales/commercial leadership match",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Charlie Birkett",
+    "job_title": "Co-Founder & CEO | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Secondary",
+    "tier_rationale": "Exact EP founder/firm leadership match",
+    "source": "https://y.co/team/directors"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Gary Wright",
+    "job_title": "Co-Founder & Chairman | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Secondary",
+    "tier_rationale": "Exact EP founder/firm leadership match",
+    "source": "https://y.co/team/directors"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Holly Bottau",
+    "job_title": "Managing Director | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Secondary",
+    "tier_rationale": "Exact EP founder/firm leadership match",
+    "source": "https://y.co/team/directors"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "James Foster",
+    "job_title": "Financial Director | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Committee / Approver",
+    "tier_rationale": "Likely budget approver, not primary EP outreach target",
+    "source": "https://y.co/team/directors"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Alisha Mcdonald",
+    "job_title": "Yacht Charter | London",
+    "location": "London",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Andrea Pothier",
+    "job_title": "Yacht Charter | London",
+    "location": "London",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Annabel Gray",
+    "job_title": "Yacht Charter | London",
+    "location": "London",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Ariane Cerdan",
+    "job_title": "Yacht Charter | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Ben Ritchie",
+    "job_title": "Yacht Sales & Purchase | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Ben Wakeley",
+    "job_title": "Yacht Charter | London",
+    "location": "London",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Bianca Nestor",
+    "job_title": "Yacht Charter | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "David Price",
+    "job_title": "Charter Management | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Eleanor Bloodworth",
+    "job_title": "Yacht Charter | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Eve Kinahan",
+    "job_title": "Charter Accounts Support | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Fleur Tomlinson",
+    "job_title": "Yacht Charter | Auckland",
+    "location": "Auckland",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Hume Jones",
+    "job_title": "Yacht Charter | London",
+    "location": "London",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "James Pool",
+    "job_title": "Yacht Sales & Purchase | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Jeremy Vanzo",
+    "job_title": "Charter Accounts | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Julie Leon",
+    "job_title": "Yacht Sales, Purchase & Charter | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Max Bulley",
+    "job_title": "Yacht Sales & Purchase | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Nick Heming",
+    "job_title": "Yacht Charter | London",
+    "location": "London",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Nicolas Gourdon-Alexis",
+    "job_title": "Charter Management Support | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Ollie Pryce",
+    "job_title": "Yacht Charter | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Savanna Edsall",
+    "job_title": "Sales Operations | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Sioned Williams",
+    "job_title": "Charter Management | London",
+    "location": "London",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Solenn de Braux",
+    "job_title": "Yacht Charter | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Steijn Onkenhout",
+    "job_title": "Sales Operations | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Tamsin Priestley",
+    "job_title": "Yacht Charter | London",
+    "location": "London",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Tilly Smith",
+    "job_title": "Yacht Charter | London",
+    "location": "London",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-charter"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Timothy Molinero",
+    "job_title": "Yacht Sales & Purchase | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Toby Nott Bower",
+    "job_title": "Yacht Sales & Purchase | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Tomaso Polli",
+    "job_title": "Yacht Sales, Purchase & Charter | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Adjacent User",
+    "tier_rationale": "Potential end user / influencer, not clear buying owner",
+    "source": "https://y.co/team/yacht-sales"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Alessia Forastieri",
+    "job_title": "Yacht Accounts | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Alexander Lino",
+    "job_title": "Yacht Accounts | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Alice De Stefano",
+    "job_title": "Crew Operations Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Amanda Corbo",
+    "job_title": "Crew Operations | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Andrew Jordan",
+    "job_title": "Director Yacht Accounts USA | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Anisia Marin",
+    "job_title": "DPA/CSO | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Anja Crncevic",
+    "job_title": "Yacht Accounts Associate | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Anton Kirchev",
+    "job_title": "Technical Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Anya Steele",
+    "job_title": "Client Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Aude Maceli",
+    "job_title": "Yacht Accounts Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Charlotte Gancel",
+    "job_title": "Yacht Accounts | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Chiara Dalessandri",
+    "job_title": "Yacht Accounts Support | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Clemence Smith",
+    "job_title": "Crew Operations | London",
+    "location": "London",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "David White",
+    "job_title": "Lead Client Manager USA | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Ellen Roguski",
+    "job_title": "Yacht Accounts Support | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Filomena Gioffre",
+    "job_title": "Yacht Accounts Controller | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Francesca Angusti",
+    "job_title": "Yacht Accounts | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Franck Cano",
+    "job_title": "Lead Vessel Compliance | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Giulia De Cristofaro",
+    "job_title": "Vessel Compliance | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Giulia Marcucci",
+    "job_title": "Crew Operations Support | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Hannah Luckie",
+    "job_title": "Technical Operations and Sustainability | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Hannah Roux",
+    "job_title": "Vessel Compliance | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Heather Steele",
+    "job_title": "Vessel Compliance | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Ivaylo Nenov",
+    "job_title": "Technical Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Izdihar Rahli",
+    "job_title": "Yacht Accounts Administration | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Jacqueline Zayas",
+    "job_title": "Yacht Accounts Support | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Joe Carr",
+    "job_title": "Lead DPA/CSO USA | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Johanna Taormina",
+    "job_title": "Yacht Accounts | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "John-Miles Morton",
+    "job_title": "Crew Operations | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Jonathan Porritt",
+    "job_title": "Maritime Compliance & DPA | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Katie Hawkes Pippen",
+    "job_title": "Client Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Lina Powell",
+    "job_title": "Vessel Compliance | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Lucy Smith",
+    "job_title": "Yacht Accounts Payment Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Luke Nash",
+    "job_title": "Head of Maritime Compliance & DPA | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Marco Barbarossa",
+    "job_title": "Vessel Compliance | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Mark Bament",
+    "job_title": "Client Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Mark Donaldson",
+    "job_title": "Director Y.CO Pacific | Auckland",
+    "location": "Auckland",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/directors"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Mark Paterson",
+    "job_title": "Head of Client Services | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Michelle Detraz",
+    "job_title": "Head of Yacht Insurance | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Natalie Nivesse",
+    "job_title": "Head of Yacht Accounts | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Nick Smith",
+    "job_title": "Technical Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Owen Critchley",
+    "job_title": "Yacht Accounts | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Petra Kondeova",
+    "job_title": "Crew Operations Support | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Ralph Crane",
+    "job_title": "Company Secretary | London",
+    "location": "London",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/directors"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Rebecca Mulhern",
+    "job_title": "Client Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Ryan Hopkins",
+    "job_title": "Yacht Accounts Controller USA | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Samera Beasley",
+    "job_title": "Yacht Accounts | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Sarah Bayard",
+    "job_title": "Lead Crew Operations | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Scott Lidbetter",
+    "job_title": "Special Advisor | London",
+    "location": "London",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/directors"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Solene Dotta",
+    "job_title": "Crew Culture & HR Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Soline Gouges",
+    "job_title": "Yacht Accounts | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Stefania Mingherlino",
+    "job_title": "Vessel Compliance | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Thomas Ozenda",
+    "job_title": "Yacht Accounts Controller | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Thomas Zaffonato",
+    "job_title": "Yacht Accounts Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Valeria Sangalli",
+    "job_title": "Client Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Vincent Kobylinski",
+    "job_title": "Client Manager | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Vlad Ovodovskiy",
+    "job_title": "Technical Manager | Fort Lauderdale",
+    "location": "Fort Lauderdale",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  },
+  {
+    "company": "Y.CO",
+    "person_name": "Yoann Petit",
+    "job_title": "Head of Technical Management | Monaco",
+    "location": "Monaco",
+    "ep_tier": "Not Target",
+    "tier_rationale": "Not in EP target hierarchy",
+    "source": "https://y.co/team/yacht-management"
+  }
+]
